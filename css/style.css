@@ -1,3 +1,36 @@
-body {
-  color: bisque;
+h4 {
+  text-align: center;
+}
+.descr {
+  background-color: rgb(226, 171, 218);
+  margin: 50px 50px;
+  padding: 20px;
+  border-radius: 14px;
+  color: rgb(62, 19, 41);
+}
+
+.links {
+  text-align: center;
+}
+
+a {
+  color: blueviolet;
+  text-decoration: none;
+  margin: 10px;
+}
+
+a:hover {
+  color: grey;
+}
+
+.email {
+  color: blueviolet;
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }
